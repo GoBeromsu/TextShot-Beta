@@ -4,6 +4,7 @@ TextShot-Beta는 OCR 기술과 대형 언어 모델(LLM)을 활용하여 이 과
 
 ## 소개
 TextShot-Beta는 화면 캡처에서 텍스트를 추출하는 과정을 OCR 기술로 단순화한 후, GPT를 사용해 쉽게 재포맷할 수 있도록 텍스트를 처리합니다. 이 도구는 화면 캡쳐된 텍스트를 정리하는 데 드는 시간과 노력을 절약해 줄 것입니다.
+https://github.com/GoBeromsu/TextShot-Beta/assets/37897508/d5e03b46-ad53-4166-a295-56b3dbc2e4e4
 
 ### 주요 기능:
 - **간편 캡처:** 윈도우에서는 `Control+Shift+1`, 맥에서는 `Command+Shift+1`의 기본 단축키를 사용하여 화면의 모든 텍스트를 빠르게 캡처합니다.
