@@ -1,5 +1,5 @@
 # TextShot-Beta
-
+I used a tool that captures the screen using OCR to extract text, but it was cumbersome to have to organize the format each time. I thought that using a Large Language Model (LLM) to reformat it could yield good results, so I decided to create it
 ## Introduction
 https://github.com/GoBeromsu/TextShot-Beta/assets/37897508/d3448fbd-937e-46b3-9568-9729f2bb6ed1
 
