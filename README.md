@@ -1,10 +1,11 @@
-Let's make the README for TextShot-Beta more user-friendly and easy to follow:
-
 # TextShot-Beta
-Do you find it cumbersome to capture screen text and reformat it manually every time? TextShot-Beta leverages OCR technology and a Large Language Model (LLM) to streamline this process, making it efficient and user-friendly.
+I used a tool that captures the screen using OCR to extract text, but it was cumbersome to have to organize the format each time. I thought that using a Large Language Model (LLM) to reformat it could yield good results, so I decided to create it
 
 ## Introduction
 TextShot-Beta simplifies the process of extracting text from your screen captures using OCR technology, then processes the text with GPT for easy reformatting. This tool is designed to save you time and effort in organizing screen-captured text. 
+
+https://github.com/GoBeromsu/TextShot-Beta/assets/37897508/d5e03b46-ad53-4166-a295-56b3dbc2e4e4
+
 
 ### Key Features:
 - **Easy Capture:** Use the default shortcut `Control+Shift+1` on Windows or `Command+Shift+1` on Mac to quickly capture any text on your screen.
