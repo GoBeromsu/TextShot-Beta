@@ -1,6 +1,7 @@
 # TextShot-Beta
 I used a tool that captures the screen using OCR to extract text, but it was cumbersome to have to organize the format each time. I thought that using a Large Language Model (LLM) to reformat it could yield good results, so I decided to create it
 
+if you are korean, this is [README for Korean](https://github.com/GoBeromsu/TextShot-Beta/blob/main/README-kor.md)
 ## Introduction
 TextShot-Beta simplifies the process of extracting text from your screen captures using OCR technology, then processes the text with GPT for easy reformatting. This tool is designed to save you time and effort in organizing screen-captured text. 
 
