@@ -4,7 +4,7 @@
 https://github.com/GoBeromsu/TextShot-Beta/assets/37897508/d3448fbd-937e-46b3-9568-9729f2bb6ed1
 
 Use the default shortcut: Control+Shift+1 (or Command+Shift+1 on Mac) to capture.
-For bug reports or feature requests, please send an email to gobeumsu@gmail.com.
+For bug reports or feature requests, please send an email to gobeumsu@gmail.com or [forms](https://forms.gle/MSAt3y6c7nBLxFjy6).
 
 After capturing, OCR technology extracts text from the image, which is then processed by GPT. Users have the opportunity to review the GPT results and copy them to their clipboard.
 
