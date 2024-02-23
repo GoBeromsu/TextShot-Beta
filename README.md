@@ -1,6 +1,12 @@
 # TextShot-Beta
 ## Introduction
+Default shortcut: Control+Shift+1 (or Command+Shift+1 on Mac) to capture.
 
+For bug reports or feature requests, please send to gobeumsu@gmail.com.
+
+Upon capturing, OCR extracts text from the image, which is then processed by GPT. Users can review GPT results and copy them to the clipboard.
+
+Future enhancements will include custom shortcut keys, diverse prompts for different tasks (e.g., translation, Notion, homework), and upgraded OCR modules (e.g., Naver Clova, Google OCR, GPT Vision).
 ## Quick Start
 1. Download
 2. Add GPT Key
