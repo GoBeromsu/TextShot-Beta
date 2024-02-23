@@ -1,7 +1,7 @@
 # TextShot-Beta
+
 ## Introduction
 Use the default shortcut: Control+Shift+1 (or Command+Shift+1 on Mac) to capture.
-
 For bug reports or feature requests, please send an email to gobeumsu@gmail.com.
 
 After capturing, OCR technology extracts text from the image, which is then processed by GPT. Users have the opportunity to review the GPT results and copy them to their clipboard.
@@ -10,8 +10,8 @@ Future updates will include the addition of custom shortcut keys, the introducti
 
 ## Quick Start
 1. Download the app for your OS from [Google Drive](https://drive.google.com/drive/folders/1CACY_35oqzdk2q8TciWza9pKyxgLaCgL?usp=sharing).
-2. Add your GPT API Key.
-3. Go to the Home screen and click Capture.
+2. Add your GPT API Key && Model && Prompt
+4. Go to the Home screen and click Capture.
 
 ## Components
 ### Home
